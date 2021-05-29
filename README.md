@@ -1,2 +1,2 @@
 # Curso de Java POO
- Exercicios desenvolvidos nas aulas de Java POO no Curso em Vídeo
+ Exercícios desenvolvidos nas aulas de Java POO no Curso em Vídeo
